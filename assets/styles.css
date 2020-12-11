@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+}
+
+.display-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.lead {
+    font-size: 1.75rem;
+}
+
+.badge {
+    margin-left: 0.5em;
+}
